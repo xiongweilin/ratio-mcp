@@ -14,7 +14,7 @@ ratio-mcp = "ratio_mcp.server:main"
 
 [dependency-groups]
 dev = [
-    "pytest>=8.4,<9",
+    "pytest>=8.4,<10",
     "pytest-cov>=6,<8",
     "ruff>=0.12,<1",
 ]
